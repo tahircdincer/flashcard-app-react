@@ -1,12 +1,12 @@
 export default [
   {
-    question: " asdasdasd? ",
-    answer: " asdasdasd ",
+    question: " What programming language ' React ' is based on? ",
+    answer: " JavaScript ",
     id: 1,
   },
   {
-    question: " asdasdasd? ",
-    answer: " asdasdasd ",
+    question: " What are building ' blocks ' of ' React ' apps? ",
+    answer: " Components ",
     id: 2,
   },
   {
